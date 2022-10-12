@@ -6,7 +6,7 @@
 
   - [Wiki Imitation](https://github.com/Evgeni6197/Wiki_Imitation.git) - Django educational project imitates Wiki Home page and some functionality in it.  [Demonstration video](https://youtu.be/ZUncrEivXnU)
   
-  - [Scrabble](https://github.com/Evgeni6197/scrabble_rus) - Well known scrabble game in russian for terminal [Demonstration video](https://youtu.be/867-v7BuyDI)
+  - [Scrabble](https://github.com/Evgeni6197/scrabble_rus) - Well known scrabble game in russian for terminal.  [Demonstration video](https://youtu.be/867-v7BuyDI)
 
 
 
